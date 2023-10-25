@@ -4,7 +4,7 @@
 
 O backend da aplicação foi desenvolvida utilizando o framework Laravel. Entre Lumen vs Laravel acabei optando por Laravel, visto que ele acaba sendo mais completo do que o próprio Lumen, que contém consigo uma porcentagem das features que o Laravel possui. Para o banco de dados eu optei por usar o MyQSL, um banco SQL que neste caso é mais do que suficiente para a dimensão do projeto. 
 
-Para fazer a ligação da API com o <a href="github.com/guilhermeferreiraa/ip4y-test" target="_blank">front-end da aplicação</a> que foi desenvolvida utilizando React Native obtive alguns problemas com a conexão. Utilizo o emulador do Bluestacks, que devido a ser um emulador para games é mais otimizado e mais leve do que o Android Studio ou Genymotion. Devido a diferença de IP e configurações de portas do emulador usado, optei por utilizar um túnel utilizando o NGROK para poder consumir os dados no front-end.
+Para fazer a ligação da API com o <a href="https://github.com/GuilhermeFerreiraa/ip4y-test" target="_blank">front-end da aplicação</a> que foi desenvolvida utilizando React Native obtive alguns problemas com a conexão. Utilizo o emulador do Bluestacks, que devido a ser um emulador para games é mais otimizado e mais leve do que o Android Studio ou Genymotion. Devido a diferença de IP e configurações de portas do emulador usado, optei por utilizar um túnel utilizando o NGROK para poder consumir os dados no front-end.
 
 
 ## Setup do projeto
