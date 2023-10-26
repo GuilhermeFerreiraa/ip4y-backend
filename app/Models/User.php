@@ -25,4 +25,7 @@ class User extends Authenticatable
         'birthdate',
         'gender',
     ];
+
+    public $incrementing = false;
+    protected $keyType = 'string';
 }
